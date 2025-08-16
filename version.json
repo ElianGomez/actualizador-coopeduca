@@ -1,8 +1,8 @@
 {
-  "version": "1.2.6",
-  "titulo": "Nuevo elemento y Correcion de error",
-  "size": "79.3 MB",
+  "version": "1.0.0",
+  "titulo": "Actualizacion de inicializacion",
+  "size": "00.0 MB",
   "fecha": "16/08/2025",
-  "changelog": "• Nuevo campo de numero de ticket en el proceso de inventario y correcion de error al agregar producto con una cantidad alta en dicho proceso",
-  "url": "https://github.com/ElianGomez/actualizador-inventia/releases/download/v1.2.6/Inventia_v1.2.6.zip"
+  "changelog": "• Primera vez que se inicia este repositorio",
+  "url": "https://github.com/ElianGomez/actualizador-coopeduca/releases/download/v1.0.0/Coopeduca_v1.0.0.zip"
 }
