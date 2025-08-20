@@ -1,8 +1,8 @@
 {
-  "version": "1.0.3",
-  "titulo": "Actualizacion de inicializacion",
+  "version": "1.0.4",
+  "titulo": "Nuevos campos y nuevo reporte",
   "size": "84.6 MB",
   "fecha": "19/08/2025",
-  "changelog": "• Primera vez que se inicia este repositorio",
-  "url": "https://github.com/ElianGomez/actualizador-coopeduca/releases/download/v1.0.3/Coopeduca_v1.0.3.zip"
+  "changelog": "• Nuevos campos de jornadas totales y presupuesto totales, formato de millero de la columna presupuesto y reporte en la consulta de Planificaciones",
+  "url": "https://github.com/ElianGomez/actualizador-coopeduca/releases/download/v1.0.4/Coopeduca_v1.0.4.zip"
 }
