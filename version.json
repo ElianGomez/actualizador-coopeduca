@@ -1,8 +1,8 @@
 {
-  "version": "1.0.4",
-  "titulo": "Nuevos campos y nuevo reporte",
+  "version": "1.0.5",
+  "titulo": "Correcion de errores",
   "size": "84.6 MB",
   "fecha": "19/08/2025",
-  "changelog": "• Nuevos campos de jornadas totales y presupuesto totales, formato de millero de la columna presupuesto y reporte en la consulta de Planificaciones",
-  "url": "https://github.com/ElianGomez/actualizador-coopeduca/releases/download/v1.0.4/Coopeduca_v1.0.4.zip"
+  "changelog": "• Correccion de error en el bindeo de las tarjetas del DashBoard",
+  "url": "https://github.com/ElianGomez/actualizador-coopeduca/releases/download/v1.0.5/Coopeduca_v1.0.5.zip"
 }
