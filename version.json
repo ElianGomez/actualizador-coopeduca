@@ -1,8 +1,8 @@
 {
-  "version": "1.0.5",
-  "titulo": "Correcion de errores",
+  "version": "1.0.6",
+  "titulo": "Modificacion SQL",
   "size": "84.6 MB",
   "fecha": "19/08/2025",
-  "changelog": "• Correccion de error en el bindeo de las tarjetas del DashBoard",
-  "url": "https://github.com/ElianGomez/actualizador-coopeduca/releases/download/v1.0.5/Coopeduca_v1.0.5.zip"
+  "changelog": "• Modificacion de Query SQL en el DashBoard",
+  "url": "https://github.com/ElianGomez/actualizador-coopeduca/releases/download/v1.0.6/Coopeduca_v1.0.6.zip"
 }
