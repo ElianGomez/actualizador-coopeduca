@@ -1,8 +1,8 @@
 {
-  "version": "1.0.5",
-  "titulo": "Modificacion SQL",
+  "version": "1.0.6",
+  "titulo": "Modificacion en Dashboard",
   "size": "84.6 MB",
-  "fecha": "21/08/2025",
-  "changelog": "• Modificacion de Query SQL en el DashBoard",
-  "url": "https://github.com/ElianGomez/actualizador-coopeduca/releases/download/v1.0.5/Coopeduca_v1.0.5.zip"
+  "fecha": "22/08/2025",
+  "changelog": "• Modificacion de proporcionalidad en algunos Charts",
+  "url": "https://github.com/ElianGomez/actualizador-coopeduca/releases/download/v1.0.6/Coopeduca_v1.0.6.zip"
 }
