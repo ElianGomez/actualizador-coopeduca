@@ -1,6 +1,8 @@
 {
   "version": "1.0.6",
   "titulo": "Modificacion en Dashboard",
+  "nombre": "COOPEDUCA",
+  "ejecutable": "COOPEDUCA.exe",
   "size": "84.6 MB",
   "fecha": "22/08/2025",
   "changelog": "• Modificacion de proporcionalidad en algunos Charts",
