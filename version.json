@@ -1,10 +1,10 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "titulo": "Nuevo modulo y funciones",
   "size": "84.6 MB",
-  "fecha": "29/08/2025",
-  "changelog": "- Nueva modo para enviar los logs de errores por correo de forma automatica al desarrollador",
-  "descarga": "https://github.com/ElianGomez/actualizador-coopeduca/releases/download/v1.1.0/Coopeduca_v1.1.0.zip",
+  "fecha": "30/08/2025",
+  "changelog": "• Nueva modo para enviar los logs de errores por correo de forma automatica al desarrollador",
+  "descarga": "https://github.com/ElianGomez/actualizador-coopeduca/releases/download/v1.1.1/Coopeduca_v1.1.1.zip",
   "ejecutable": "COOPEDUCA.exe",
   "lanzarArgs": "",
   "preKill": ["COOPEDUCA"]
