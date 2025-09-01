@@ -1,10 +1,10 @@
 {
-  "version": "1.1.1",
-  "titulo": "Nuevo modulo y funciones",
+  "version": "1.1.2",
+  "titulo": "Actualizacion de paquetes",
   "size": "84.6 MB",
-  "fecha": "30/08/2025",
-  "changelog": "• Nueva modo para enviar los logs de errores por correo de forma automatica al desarrollador",
-  "descarga": "https://github.com/ElianGomez/actualizador-coopeduca/releases/download/v1.1.1/Coopeduca_v1.1.1.zip",
+  "fecha": "01/09/2025",
+  "changelog": "• Se ha actualizado el Paquete llamado Centro de notificaciones del sistema",
+  "descarga": "https://github.com/ElianGomez/actualizador-coopeduca/releases/download/v1.1.2/Coopeduca_v1.1.2.zip",
   "ejecutable": "COOPEDUCA.exe",
   "lanzarArgs": "",
   "preKill": ["COOPEDUCA"]
