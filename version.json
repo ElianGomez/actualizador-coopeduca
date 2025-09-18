@@ -1,10 +1,10 @@
 {
-  "version": "1.1.2",
-  "titulo": "Actualizacion de paquetes",
+  "version": "1.2.0",
+  "titulo": "Nueva funcionalidad y correcion de errores",
   "size": "84.6 MB",
-  "fecha": "01/09/2025",
-  "changelog": "• Se ha actualizado el Paquete llamado Centro de notificaciones del sistema",
-  "descarga": "https://github.com/ElianGomez/actualizador-coopeduca/releases/download/v1.1.2/Coopeduca_v1.1.2.zip",
+  "fecha": "18/09/2025",
+  "changelog": "• Se ha creado una nueva funcionalidad para las consultas de jornada y se han corregido algunos errores",
+  "descarga": "https://github.com/ElianGomez/actualizador-coopeduca/releases/download/v1.2.0/Coopeduca_v1.2.0.zip",
   "ejecutable": "COOPEDUCA.exe",
   "lanzarArgs": "",
   "preKill": ["COOPEDUCA"]
