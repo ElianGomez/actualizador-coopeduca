@@ -1,10 +1,10 @@
 {
-  "version": "1.4.0",
-  "titulo": "Nueva funcionalidad",
+  "version": "1.4.1",
+  "titulo": "Correccion y modificacion",
   "size": "84.65 MB",
-  "fecha": "21/11/2025",
-  "changelog": "• Se ha creado nueva forma de poder ver las notas del parche",
-  "descarga": "https://github.com/ElianGomez/actualizador-coopeduca/releases/download/v1.4.0/Coopeduca_v1.4.0.zip",
+  "fecha": "24/11/2025",
+  "changelog": "• Correccion en la codificacion y cifrado de algunos datos y adaptacion para modificar las observaciones de de la jornada para el certificado",
+  "descarga": "https://github.com/ElianGomez/actualizador-coopeduca/releases/download/v1.4.1/Coopeduca_v1.4.1.zip",
   "ejecutable": "COOPEDUCA.exe",
   "lanzarArgs": "",
   "preKill": ["COOPEDUCA"]
