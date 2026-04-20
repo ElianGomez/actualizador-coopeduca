@@ -1,10 +1,10 @@
 {
-  "version": "1.4.3",
-  "titulo": "Correcciones",
-  "size": "84.65 MB",
-  "fecha": "03/12/2025",
-  "changelog": "• Correccion de error que inhabilitaba los botones de 'Salir' y 'Nuevo' al guardar una jornada ",
-  "descarga": "https://github.com/ElianGomez/actualizador-coopeduca/releases/download/v1.4.3/Coopeduca_v1.4.3.zip",
+  "version": "1.4.4",
+  "titulo": "Correcciones y mejoras",
+  "size": "84.71 MB",
+  "fecha": "04/19/2026",
+  "changelog": "• Correccion de errores y mejoras en la seguridad de los datos",
+  "descarga": "https://github.com/ElianGomez/actualizador-coopeduca/releases/download/v1.4.4/Coopeduca_v1.4.4.zip",
   "ejecutable": "COOPEDUCA.exe",
   "lanzarArgs": "",
   "preKill": ["COOPEDUCA"]
