@@ -1,9 +1,9 @@
 {
   "version": "1.5.0",
-  "titulo": "Correcciones y mejoras",
-  "size": "84.71 MB",
-  "fecha": "05/11/2026",
-  "changelog": "• Correccion de errores y mejoras en la seguridad de los datos",
+  "titulo": "Correcciones y nuevo flujo",
+  "size": "84.60 MB",
+  "fecha": "05/24/2026",
+  "changelog": "• Correccion de errores, mejoras en la seguridad de los datos y nuevo flujo para roles",
   "descarga": "https://github.com/ElianGomez/actualizador-coopeduca/releases/download/v1.5.0/Coopeduca_v1.5.0.zip",
   "ejecutable": "COOPEDUCA.exe",
   "lanzarArgs": "",
