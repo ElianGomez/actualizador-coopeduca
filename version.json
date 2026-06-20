@@ -1,10 +1,10 @@
 {
-  "version": "1.5.0",
-  "titulo": "Correcciones y nuevo flujo",
+  "version": "1.6.0",
+  "titulo": "Nuevo flujo",
   "size": "84.60 MB",
-  "fecha": "05/24/2026",
-  "changelog": "• Correccion de errores, mejoras en la seguridad de los datos y nuevo flujo para roles",
-  "descarga": "https://github.com/ElianGomez/actualizador-coopeduca/releases/download/v1.5.0/Coopeduca_v1.5.0.zip",
+  "fecha": "20/06/2026",
+  "changelog": "• Nuevo flujo y mejora para poder escanear estudiantes con la nueva cedula",
+  "descarga": "https://github.com/ElianGomez/actualizador-coopeduca/releases/download/v1.6.0/Coopeduca_v1.6.0.zip",
   "ejecutable": "COOPEDUCA.exe",
   "lanzarArgs": "",
   "preKill": ["COOPEDUCA"]
